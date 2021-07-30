@@ -1,6 +1,6 @@
 ## Data Science Training
 
-### Regression 
+### Regression - based on "The Data Science Workshop" (Packt, 2020)
 [linear_regression.ipynb](https://github.com/psrozek/data-science/blob/main/linear_regression.ipynb)
 
 #### pandas, matplotlib, sklearn, seaborn
