@@ -1,9 +1,9 @@
-## Data Science Training
+## Data Science
 
 ### Regression - based on "The Data Science Workshop" (Packt, 2020)
-[linear_regression.ipynb](https://github.com/psrozek/data-science/blob/main/linear_regression.ipynb)
+[Regression.ipynb](https://github.com/psrozek/data-science/blob/main/Regression.ipynb)
 
-#### pandas, matplotlib, sklearn, seaborn
+#### pandas, matplotlib, numpy, sklearn, seaborn, patsy, statsmodel
 
 1. data load and preparation for analysis
   * .read_csv
@@ -15,3 +15,16 @@
 2. graphical investigation of linear relationships
   * pyplot subplots
   * seaborn regplot
+
+3. examining log-Linear relationship
+  * pyplot subplots
+  * seaborn regplot with confidence interval argument ci = 95%
+
+4. fitting simple linear regression model and multiple linear regressin model
+  * statsmodel ols
+  * patsy ~
+  * .fit()
+  * .summary()
+
+
+
