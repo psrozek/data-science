@@ -1,6 +1,6 @@
-## Data Science
+## Data Science - statistics
 
-### Regression - based on "The Data Science Workshop" (Packt, 2020)
+### Regression (based on "The Data Science Workshop" (Packt, 2020))
 [Regression.ipynb](https://github.com/psrozek/data-science/blob/main/Regression.ipynb)
 
 #### pandas, matplotlib, numpy, sklearn, seaborn, patsy, statsmodel
