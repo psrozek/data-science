@@ -28,7 +28,7 @@
 
 ### Clustering (based on "The Machine Learning Workshop" (Packt, 2020))
 
-[Clustering 1](https://github.com/psrozek/data-science/blob/main/clustering1.ipynb), [Clustering 2](https://github.com/psrozek/data-science/blob/main/clustering1.ipynb)
+[Clustering 1](https://github.com/psrozek/data-science/blob/main/clustering1.ipynb), [Clustering 2](https://github.com/psrozek/data-science/blob/main/clustering2.ipynb)
   * data preprocessing - outliers checking, data standarization
   * k-means algorithm
   * mean-shift algorithm
