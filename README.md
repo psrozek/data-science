@@ -1,4 +1,4 @@
-## Data Science - statistics
+## Data Science - Statistics and Machine Learning
 
 ### Regression (based on "The Data Science Workshop" (Packt, 2020))
 [Regression.ipynb](https://github.com/psrozek/data-science/blob/main/Regression.ipynb)
