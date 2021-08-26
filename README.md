@@ -1,10 +1,9 @@
 ## Data Science - Statistics and Machine Learning
+#### pandas, matplotlib, numpy, sklearn, seaborn, patsy, statsmodel
 
 ### Regression 
 (based on "The Data Science Workshop" (Packt, 2020))
 [Regression.ipynb](https://github.com/psrozek/data-science/blob/main/Regression.ipynb)
-
-#### pandas, matplotlib, numpy, sklearn, seaborn, patsy, statsmodel
 
 1. data load and preparation for analysis
   * .read_csv
