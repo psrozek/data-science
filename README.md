@@ -20,7 +20,7 @@
   * pyplot subplots
   * seaborn regplot with confidence interval argument ci = 95%
 
-4. fitting simple linear regression model and multiple linear regressin model
+4. fitting simple linear regression model and multiple linear regression model
   * statsmodel ols
   * patsy ~
   * .fit()
