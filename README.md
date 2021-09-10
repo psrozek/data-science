@@ -43,7 +43,7 @@
   * confusion matrix
   * accuracy, precision, recall
 
-[Metrics 2](https://github.com/psrozek/data-science/blob/main/metrics_1.ipynb)
+[Metrics 2](https://github.com/psrozek/data-science/blob/main/metrics_2.ipynb)
   * linear regression
   * mean absolute error
   * root mean square error
